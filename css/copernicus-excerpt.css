@@ -1,0 +1,15 @@
+  @font-face {
+    font-family:"Copernicus";
+    src:url('http://www8.gsb.columbia.edu/sites/all/themes/gsb_themeV2/assets/fonts/copernicus/Copernicus-Bold.eot');
+    src:url('http://www8.gsb.columbia.edu/sites/all/themes/gsb_themeV2/assets/fonts/copernicus/Copernicus-Bold.eot?#iefix') format('embedded-opentype'),
+          url('http://www8.gsb.columbia.edu/sites/all/themes/gsb_themeV2/assets/fonts/copernicus/Copernicus-Bold.woff') format('woff'),
+          url('http://www8.gsb.columbia.edu/sites/all/themes/gsb_themeV2/assets/fonts/copernicus/Copernicus-Bold.ttf') format('truetype'),
+          url('http://www8.gsb.columbia.edu/sites/all/themes/gsb_themeV2/assets/fonts/copernicus/Copernicus-Bold.svg#copernicus') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    }
+  }
+
+  .ff {
+    font-family:Polaris, Helvetica, Arial, sans-serif !important;
+  }
